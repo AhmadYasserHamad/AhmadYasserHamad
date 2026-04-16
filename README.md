@@ -42,4 +42,4 @@ Here are some of the key languages, frameworks, and technologies I work with for
 
 The best way to get in touch is via my LinkedIn. Let’s collaborate!
 
-- **LinkedIn:** [Ahmed Yasser Hamad](www.linkedin.com/in/ahmedyaserhamad)
+- **LinkedIn:** [Ahmed Yasser Hamad](https://www.linkedin.com/in/ahmedyaserhamad)
