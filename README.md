@@ -42,7 +42,7 @@ Here are some of the key languages, frameworks, and technologies I work with for
 
 The best way to get in touch is via my LinkedIn. Let’s collaborate!
 
-- **LinkedIn:** [[INSERT LINK TO YOUR LINKEDIN PROFILE HERE]](www.linkedin.com/in/ahmedyaserhamad)
+- **LinkedIn:** [Ahmed Yasser Hamad](www.linkedin.com/in/ahmedyaserhamad)
 
 ---
 
@@ -50,5 +50,3 @@ The best way to get in touch is via my LinkedIn. Let’s collaborate!
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmadYasserHamad&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadYasserHamad&layout=compact&theme=radical)
-
-*(Make sure to replace `[YOUR-GITHUB-USERNAME-HERE]` with your actual GitHub username for these stat cards to work.)*
