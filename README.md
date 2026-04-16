@@ -1,4 +1,4 @@
-# 👋 Hello, I'm [Ahmed Yasser Hamad]
+# 👋 Hello, I'm Ahmed Yasser
 
 Here is a quick overview of what I do and how to connect with me.
 
@@ -48,7 +48,7 @@ The best way to get in touch is via my LinkedIn. Let’s collaborate!
 
 ### GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[YOUR-GITHUB-USERNAME-HERE]&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR-GITHUB-USERNAME-HERE]&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[AhmadYasserHamad]&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[AhmadYasserHamad]&layout=compact&theme=radical)
 
 *(Make sure to replace `[YOUR-GITHUB-USERNAME-HERE]` with your actual GitHub username for these stat cards to work.)*
